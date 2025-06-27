@@ -80,16 +80,9 @@ The system uses object-oriented programming principles and logs all activities f
 - 📈 **Analytics Dashboard**
   - Visualize usage patterns and device performance over time
 
----
 
-## 🧑‍💻 Developed By
 
-- Abdullah Salman 
-- Syed Mahad Ali 
-- M. Hashim 
-- Hamza Pasha 
-- Suleiman Farooqui 
----
+
 
 ## 📂 How to Run
 
